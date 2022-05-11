@@ -2,4 +2,10 @@
     <string name="app_name">Demo Simple Click</string>
     <string name="enter_something">Enter Something</string>
     <string name="Display">Display what the user enters</string>
+    <string name="togglebtn">ToggleButton</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="display">Display</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
 </resources>
